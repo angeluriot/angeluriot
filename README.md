@@ -1,12 +1,12 @@
 ![test](https://i.imgur.com/ISMhfxa.gif)
 
-🎓 Actuellement en première année dans l'école d'ingénieur [Polytech Paris-Sud](https://www.polytech.universite-paris-saclay.fr/ecole/presentation-ecole) (en spécialité informatique 💻).
+🎓 - Actuellement en première année dans l'école d'ingénieur [Polytech Paris-Sud](https://www.polytech.universite-paris-saclay.fr/ecole/presentation-ecole) (en spécialité informatique 💻).
 
-🪐 Passionné de sciences, de physique et d'astronomie (j'ai une [chaîne YouTube](https://www.youtube.com/c/DIMENSI0N) sur ces domaines).
+🪐 - Passionné de sciences, de physique et d'astronomie (j'ai une [chaîne YouTube](https://www.youtube.com/c/DIMENSI0N) sur ces domaines).
 
-💻 Je suis également passionné par la programmation, un grand nombre de mes dépôts sont des projets personnels.
+💻 - Je suis également passionné par la programmation, un grand nombre de mes dépôts sont des projets personnels.
 
-📭 Me contacter :
+📭 - Me contacter :
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.uriot@gmail.com)
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-uriot/)

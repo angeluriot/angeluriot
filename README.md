@@ -30,5 +30,3 @@
 <br><br>
 
 ## Mes projets :
-
-(en cours de création)

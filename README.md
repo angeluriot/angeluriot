@@ -11,6 +11,9 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.uriot@gmail.com)
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-uriot/)
 &nbsp; [![angeluriot.com](https://img.shields.io/badge/-ANGELURIOT.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.angeluriot.com/)
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angeluriot&hide=issues&show_icons=true)
 <br><br>
 
 ## Les langages que je connais :

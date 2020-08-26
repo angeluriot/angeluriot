@@ -1,10 +1,10 @@
 ![test](https://i.imgur.com/ISMhfxa.gif)
 
-🎓 Actuellement en première année dans l'école d'ingénieur [Polytech Paris-Sud](https://www.polytech.universite-paris-saclay.fr/ecole/presentation-ecole) (en spécialité informatique 💻).
+🎓 Actuellement en première année dans l'école d'ingénieur [**Polytech Paris-Sud**](https://www.polytech.universite-paris-saclay.fr/ecole/presentation-ecole) (en spécialité informatique 💻).
 
-🪐 Passionné de sciences, de physique et d'astronomie (j'ai une [chaîne YouTube](https://www.youtube.com/c/DIMENSI0N) sur ces domaines).
+🪐 Passionné de sciences, de physique et d'astronomie (j'ai une [**chaîne YouTube**](https://www.youtube.com/c/DIMENSI0N) sur ces domaines).
 
-💻 Je suis également passionné par la programmation, un grand nombre de mes dépôts sont des projets personnels.
+💻 Je suis également passionné par la programmation, un grand nombre de mes dépôts sont des projets personnels, j'ai également une [**chaîne YouTube**](https://www.youtube.com/channel/UC5RpJCwtjS7hzr7honc0o-Q) sur ce domaine.
 <br><br>
 
 ## 📭 Me contacter :

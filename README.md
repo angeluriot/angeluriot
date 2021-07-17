@@ -59,9 +59,9 @@
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
 			<td align="center"><a href="https://keras.io/">Keras</a></td>
+			<td align="center"></td>
 			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
 			<td align="center"><a href="https://www.audacityteam.org/">Audacity</a></td>
-			<td align="center"></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CMake">CMake</a></td>

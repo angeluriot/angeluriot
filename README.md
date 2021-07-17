@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
 	<a href="https://www.angeluriot.com/"><img src="https://i.imgur.com/IXqlBea.png" width="100%"></a>
 </p>
@@ -103,11 +101,7 @@
 
 # <p align="center"><a href="https://www.angeluriot.com/"><span>📂 My projects</span></a></p>
 
-<br>
-
-# [💼 Pro](https://www.angeluriot.com/#pro)
-
-<br>
+# <p align="center"><a href="https://www.angeluriot.com/#pro"><span>💼 Pro</span></a></p>
 
 ## [☢️ Nuclear reactor simulation *(2019)*](https://www.angeluriot.com/portfolio/resources/documents/CEA_2019.pdf)
 
@@ -118,6 +112,8 @@ A computer simulation predicting the behavior of neutrons in the core of a nucle
 </p>
 
 <br>
+
+# <p align="center"><a href="https://www.angeluriot.com/#school"><span>🎓 School</span></a></p>
 
 ## [⛏️ Minecraft clone *(2021)*](https://github.com/angeluriot/Minecraft_clone)
 
@@ -147,10 +143,94 @@ This program is a simplified Shell running basic Unix commands. It can launch de
 	<a href="https://github.com/angeluriot/Shell"><img src="https://i.imgur.com/VS1gXCz.png" width="500"></a>
 </p>
 
+<br>
 
+# <p align="center"><a href="https://www.angeluriot.com/#personal"><span>🏠 Personal</span></a></p>
 
+## [🌀 Galaxy simulation *(2019)*](https://github.com/angeluriot/Galaxy_simulation)
 
+It is an n-body type simulation specifically designed to simulate galaxies. It can simulate several hundreds of thousands stars thanks to an optimization algorithm called the Barnes-Hut algorithm. You can change a lot of parameters like the speed of the stars, the shape of the galaxy, the precision of the calculation...
 
+<p align="center">
+	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://i.imgur.com/4sF1bDK.png" width="500"></a>
+</p>
 
+<br>
 
+## [🏖️ Sandbox *(2020)*](https://github.com/angeluriot/Sandbox)
 
+This program is a sandbox 2D application simulating the interactions between a large number of materials. It uses a grid where each square represents an element of a material. There is wood, water, lava, ice, acid, and many other, wood burns, ice melts, water evaporates, salt dissolves, lava cools into stone...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Sandbox"><img src="https://i.imgur.com/THYA1TQ.png" width="500"></a>
+</p>
+
+<br>
+
+## [🐤 Flappy bird AI *(2020)*](https://github.com/angeluriot/Flappy_bird_AI)
+
+This program is a neural network using an evolutionary algorithm to learn how to play the famous game Flappy bird. The inputs are the distance and the height of the pipes and the speed of the bird, the output is to jump or not. After about ten generations, several hundred birds manage to pass the pipes...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Flappy_bird_AI"><img src="https://i.imgur.com/ydMltSd.png" width="500"></a>
+</p>
+
+<br>
+
+## [🧮 2D fractals generator *(2019)*](https://github.com/angeluriot/2D_fractals_generator)
+
+This program can generate images of fractals like the Mandelbrot or the Julia set. Fractals are shapes with details (often self-similar) whatever the scale we look. The program allow us to zoom and navigate in several of these very interesting mathematical structures generated from such simple equations...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/2D_fractals_generator"><img src="https://www.angeluriot.com/storage/gifs/Fractal.gif" width="500"></a>
+</p>
+
+<br>
+
+## [🌊 2D fluid simulation *(2020)*](https://github.com/angeluriot/2D_fluid_simulation)
+
+This program approximates the solutions of the Navier- Stokes equations to simulate the behavior of a fluid in 2D, and you can shake it in real time with the mouse. It does not use at all the particles visible on the screen for the calculation, they behave like buoys floating on the surface so that we can see what is happening...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/2D_fluid_simulation"><img src="https://www.angeluriot.com/storage/gifs/2D_fluid.gif" width="500"></a>
+</p>
+
+<br>
+
+## [🌐 Portoflio *(2021)*](https://github.com/angeluriot/Portfolio)
+
+This project is a website portfolio made to presenting my computer science projects. It is a one-page responsive website (PC, tablet, phone...) programmed with HTML, CSS, and JavaScript, with a lot of animations on mouse hover (with Green Sock and AnimateJS) and a little of 3D with ThreeJS...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Portfolio"><img src="https://i.imgur.com/hLTdpWA.png" width="550"></a>
+</p>
+
+<br>
+
+## [🗺️ Mazes solver *(2019)*](https://github.com/angeluriot/Mazes_solver)
+
+This program is able to generate mazes where all areas are accessible and where there is always at least one solution. It is also able to find the shortest path by noting all the boxes from the closest to the furthest to the finish, like a fluid that would flow from the finish. Then it just has to follow the nearest boxes...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Mazes_solver"><img src="https://i.imgur.com/VApqhMC.png" width="350"></a>
+</p>
+
+<br>
+
+## [🚗 Cars AI *(in progress)*](https://github.com/angeluriot/Cars_AI)
+
+It is a neural network using a genetic algorithm to learn how to control a car on a racetrack without crashing on the walls. First, you draw the road you like and when it is finished, the neural network will start training. The cars use lasers to know their distance to the walls and turn left or right according to that...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Cars_AI"><img src="https://i.imgur.com/aZQa7fH.png" width="500"></a>
+</p>
+
+<br>
+
+## [♟️ Chess AI *(in progress)*](https://github.com/angeluriot/Chess_AI)
+
+This program use the Minimax algorithm to choose the best move in chess with a given number of moves in advance. The higher this number, the better its moves will be but the slower it will play. The program considers all the rules of the game, and you can play against it with an interactive window...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Chess_AI"><img src="https://i.imgur.com/Qe2x9gV.png" width="350"></a>
+</p>

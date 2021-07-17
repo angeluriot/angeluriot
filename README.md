@@ -105,7 +105,7 @@
 
 ## [☢️ Nuclear reactor simulation *(2019)*](https://www.angeluriot.com/portfolio/resources/documents/CEA_2019.pdf)
 
-A computer simulation predicting the behavior of neutrons in the core of a nuclear reactor using the Monte Carlo method, the goal was to calculate the amount of radiation reaching the reactor's walls. I did this project during my internship at the CEA so the source code is confidential, but you can see my internship report...
+A simulation predicting the behavior of neutrons in the core of a nuclear reactor using the Monte Carlo method. The goal was to find the amount of radiations reaching the reactor's walls. Because this project was made during my internship at the CEA, the source code is confidential, but you can see my internship report...
 
 <p align="center">
 	<a href="https://www.angeluriot.com/portfolio/resources/documents/CEA_2019.pdf"><img src="https://i.imgur.com/qykTnSz.png" width="500"></a>
@@ -117,7 +117,7 @@ A computer simulation predicting the behavior of neutrons in the core of a nucle
 
 ## [⛏️ Minecraft clone *(2021)*](https://github.com/angeluriot/Minecraft_clone)
 
-This program uses the concept of the famous game Minecraft. It procedurally generates an infinite world, the player has an animated character and can break blocks, there are also different biomes and mobs. This program was made for my computer graphics course, I got 20/20 and won a prize for the best project...
+This program takes its concept from the famous game Minecraft. It procedurally generates an infinite world, the player has an animated character and can break blocks. There are also different biomes and mobs. This program was made for my computer graphics class, I got 20/20 and won a prize for the best project...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Minecraft_clone"><img src="https://i.imgur.com/RCGkX52.png" width="500"></a>
@@ -127,7 +127,7 @@ This program uses the concept of the famous game Minecraft. It procedurally gene
 
 ## [🌍 OBIS 3D *(2021)*](https://github.com/angeluriot/OBIS_3D)
 
-An application showing data from the Ocean Biodiversity Information System (OBIS) on a 3D globe. The program can read a .json file or download the data from the Internet. You can choose the species, specify a date range and it can also show an animation of the evolution over time. I got 17/20 on this project...
+An application showing data from the Ocean Biodiversity Information System (OBIS) on a 3D globe. The program can read a .json file or download the data from the Internet. You can choose the species, specify a date range, and it can also show an animation of the evolution over time. I got 17/20 at this project...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/OBIS_3D"><img src="https://i.imgur.com/Any94qm.png" width="500"></a>
@@ -137,7 +137,7 @@ An application showing data from the Ocean Biodiversity Information System (OBIS
 
 ## [👨‍💻 Shell *(2021)*](https://github.com/angeluriot/Shell)
 
-This program is a simplified Shell running basic Unix commands. It can launch default Unix binaries or any other program. It can handle process input and output redirections, and pipes between multiple process. cd, cp and mkdir are builtins, and all process can be launch in the background. I got 19/20 on this project...
+This program is a simplified Shell running basic Unix commands. It can launch default Unix binaries or any other program. It can handle process input and output redirections, and pipes between multiple process. cd, cp and mkdir are builtins, and all process can be launched in the background. I got 19/20 at this project...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Shell"><img src="https://i.imgur.com/VS1gXCz.png" width="500"></a>
@@ -169,7 +169,7 @@ This program is a sandbox 2D application simulating the interactions between a l
 
 ## [🐤 Flappy bird AI *(2020)*](https://github.com/angeluriot/Flappy_bird_AI)
 
-This program is a neural network using an evolutionary algorithm to learn how to play the famous game Flappy bird. The inputs are the distance and the height of the pipes and the speed of the bird, the output is to jump or not. After about ten generations, several hundred birds manage to pass the pipes...
+This program is a neural network using an evolutionary algorithm to learn how to play the famous game Flappy bird. The inputs are the distance and the height of the pipes and the speed of the bird, the output is to jump or not. After about ten generations, several hundred of birds manage to go through the pipes...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Flappy_bird_AI"><img src="https://i.imgur.com/ydMltSd.png" width="500"></a>
@@ -179,7 +179,7 @@ This program is a neural network using an evolutionary algorithm to learn how to
 
 ## [🧮 2D fractals generator *(2019)*](https://github.com/angeluriot/2D_fractals_generator)
 
-This program can generate images of fractals like the Mandelbrot or the Julia set. Fractals are shapes with details (often self-similar) whatever the scale we look. The program allow us to zoom and navigate in several of these very interesting mathematical structures generated from such simple equations...
+This program can generate images of fractals like the Mandelbrot or the Julia set. Fractals are shapes with details (often self-similar) whatever the scale. The program allows us to zoom and navigate in several of these very interesting mathematical structures generated from such simple equations...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/2D_fractals_generator"><img src="https://www.angeluriot.com/storage/gifs/Fractal.gif" width="500"></a>
@@ -189,7 +189,7 @@ This program can generate images of fractals like the Mandelbrot or the Julia se
 
 ## [🌊 2D fluid simulation *(2020)*](https://github.com/angeluriot/2D_fluid_simulation)
 
-This program approximates the solutions of the Navier- Stokes equations to simulate the behavior of a fluid in 2D, and you can shake it in real time with the mouse. It does not use at all the particles visible on the screen for the calculation, they behave like buoys floating on the surface so that we can see what is happening...
+This program approximates the solutions of the Navier-Stokes equations to simulate the behavior of a fluid in 2D, and it can be shaken with the mouse in real time. It does not use at all the particles visible on the screen for the calculation, they behave like buoys floating on the surface so that we can see what is happening...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/2D_fluid_simulation"><img src="https://www.angeluriot.com/storage/gifs/2D_fluid.gif" width="500"></a>
@@ -207,12 +207,12 @@ This project is a website portfolio made to presenting my computer science proje
 
 <br>
 
-## [🗺️ Mazes solver *(2019)*](https://github.com/angeluriot/Mazes_solver)
+## [🗺️ Maze solver *(2019)*](https://github.com/angeluriot/Maze_solver)
 
-This program is able to generate mazes where all areas are accessible and where there is always at least one solution. It is also able to find the shortest path by noting all the boxes from the closest to the furthest to the finish, like a fluid that would flow from the finish. Then it just has to follow the nearest boxes...
+This program is able to generate mazes where all areas are accessible and where there is always at least one solution. It is also able to find the shortest path by noting all the boxes from the closest to the furthest to the end, like a fluid that would flow from the end. Then it just has to go to the nearest boxes...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Mazes_solver"><img src="https://i.imgur.com/VApqhMC.png" width="350"></a>
+	<a href="https://github.com/angeluriot/Maze_solver"><img src="https://i.imgur.com/VApqhMC.png" width="350"></a>
 </p>
 
 <br>

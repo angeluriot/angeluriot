@@ -28,7 +28,7 @@
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
 			<td align="center"><a href="https://www.sfml-dev.org/index.php">SFML</a></td>
 			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
-			<td align="center"><a href="https://code.visualstudio.com/">VS code</a></td>
+			<td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
 			<td align="center"><a href="https://visualstudio.microsoft.com/">Visual Studio</a></td>
 		</tr>
 		<tr>

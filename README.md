@@ -99,7 +99,7 @@
 <br>
 <br>
 
-# <p align="center"><a href="https://www.angeluriot.com/"><span>📂 My projects</span></a></p>
+# <p align="center"><a href="https://www.angeluriot.com/"><span>📂 Projects</span></a></p>
 
 # <p align="center"><a href="https://www.angeluriot.com/#pro"><span>💼 Pro</span></a></p>
 

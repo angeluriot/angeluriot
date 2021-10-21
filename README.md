@@ -147,12 +147,12 @@ This program is a simplified Shell running basic Unix commands. It can launch de
 
 # <p align="center"><a href="https://www.angeluriot.com/#personal"><span>🏠 Personal</span></a></p>
 
-## [🌀 Galaxy simulation *(2019)*](https://github.com/angeluriot/Galaxy_simulation)
+## [🌌 Galaxy simulation *(2019)*](https://github.com/angeluriot/Galaxy_simulation)
 
-It is an n-body type simulation specifically designed to simulate galaxies. It can simulate several hundreds of thousands stars thanks to an optimization algorithm called the Barnes-Hut algorithm. You can change a lot of parameters like the speed of the stars, the shape of the galaxy, the precision of the calculation...
+This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. It has a menu to change the settings and an interactive 3D camera. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, the precision of the calculation...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://i.imgur.com/4sF1bDK.png" width="500"></a>
+	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://www.angeluriot.com/storage/images/galaxy_1.png" width="500"></a>
 </p>
 
 <br>

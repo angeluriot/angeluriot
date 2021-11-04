@@ -7,7 +7,7 @@
 # <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦🏻 About me</span></a></p>
 
 <p align="center">
-	<span>Hi! I'm a 21 years old french student in the engineering school <a href="https://www.polytech.universite-paris-saclay.fr/">Polytech Paris-Saclay</a>, I'm in my second year of the engineering cycle majoring in computer science after the two years of integrated preparation.<br><br>More informations on my website : <a href="https://www.angeluriot.com/"><b>angeluriot.com</b></a></span>
+	<span>Hi! I am a 21 years old french student in the engineering school <a href="https://www.polytech.universite-paris-saclay.fr/">Polytech Paris-Saclay</a> <i>(4th year / 5)</i> and I study computer science. I am looking for a 3 month internship for summer 2022. Are you interested? Contact me!<br><br>More informations on my website : <a href="https://www.angeluriot.com/"><b>angeluriot.com</b></a></span>
 </p>
 
 <br>

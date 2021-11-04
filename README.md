@@ -157,6 +157,16 @@ This program is an n-body type simulation using GPU acceleration. It is able to 
 
 <br>
 
+## [🗺️ Maze solver *(2019)*](https://github.com/angeluriot/Maze_solver)
+
+It is an interactive web application that can create and solve mazes, you can choose among several different algorithms to generate the maze (Kruskal, Prim, Wilson, Recursive...) or to solve it (Breadth-First, Greedy Best-First, Dijkstra, A*...). You can also move the start and the finish or draw your own walls...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Maze_solver"><img src="https://i.imgur.com/iSW6t5e.png" width="500"></a>
+</p>
+
+<br>
+
 ## [🏖️ Sandbox *(2020)*](https://github.com/angeluriot/Sandbox)
 
 This program is a sandbox 2D application simulating the interactions between a large number of materials. It uses a grid where each square represents an element of a material. There is wood, water, lava, ice, acid, and many other, wood burns, ice melts, water evaporates, salt dissolves, lava cools into stone...
@@ -203,16 +213,6 @@ This project is a website portfolio made to presenting my computer science proje
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Portfolio"><img src="https://i.imgur.com/hLTdpWA.png" width="550"></a>
-</p>
-
-<br>
-
-## [🗺️ Maze solver *(2019)*](https://github.com/angeluriot/Maze_solver)
-
-This program is able to generate mazes where all areas are accessible and where there is always at least one solution. It is also able to find the shortest path by noting all the boxes from the closest to the furthest to the end, like a fluid that would flow from the end. Then it just has to go to the nearest boxes...
-
-<p align="center">
-	<a href="https://github.com/angeluriot/Maze_solver"><img src="https://i.imgur.com/VApqhMC.png" width="350"></a>
 </p>
 
 <br>

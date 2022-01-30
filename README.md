@@ -4,10 +4,10 @@
 
 <br>
 
-# <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦🏻 About me</span></a></p>
+# <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦 About me</span></a></p>
 
 <p align="center">
-	<span>Hi! I am a 21 years old french student in the engineering school <a href="https://www.polytech.universite-paris-saclay.fr/">Polytech Paris-Saclay</a> <i>(4th year / 5)</i> and I study computer science. I am looking for a 3 month internship for summer 2022. Are you interested? Contact me!<br><br>More informations on my website : <a href="https://www.angeluriot.com/"><b>angeluriot.com</b></a></span>
+	<span>Hi! I am a 22 years old french student in the engineering school <a href="https://www.polytech.universite-paris-saclay.fr/">Polytech Paris-Saclay</a> <i>(4th year / 5)</i> and I study computer science. I am looking for a 3 month internship for summer 2022. Are you interested? Contact me!<br><br>More informations on my website: <a href="https://www.angeluriot.com/"><b>angeluriot.com</b></a></span>
 </p>
 
 <br>
@@ -17,51 +17,51 @@
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="2"><b>Languages</b></th>
-			<th colspan="2"><b>Libraries</b></th>
-			<th colspan="2"><b>Softwares</b></th>
+			<th colspan="2"><b>Software development</b></th>
+			<th colspan="2"><b>Web development</b></th>
+			<th colspan="2"><b>Computer graphics</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
-			<td align="center"><a href="https://www.sfml-dev.org/index.php">SFML</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
+			<td align="center"><a href="https://www.w3.org/html/">CSS</a></td>
 			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
-			<td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
-			<td align="center"><a href="https://visualstudio.microsoft.com/">Visual Studio</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://www.typescriptlang.org">TypeScript</a></td>
+			<td align="center"><a href="https://unity.com/">Unity</a></td>
+			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
-			<td align="center"><a href="https://www.khronos.org/opencl/">OpenCL</a></td>
-			<td align="center"><a href="http://glm.g-truc.net/0.9.6/api/index.html">GLM</a></td>
-			<td align="center"><a href="https://www.jetbrains.com/idea/">IntelliJ</a></td>
-			<td align="center"><a href="https://unity.com/">Unity</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
-			<td align="center"><a href="https://github.com/ocornut/imgui">ImGui</a></td>
 			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
-			<td align="center"><a href="https://www.solidworks.com/">Solidworks</a></td>
-			<td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel">Excel</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/OCaml">OCaml</a></td>
-			<td align="center"><a href="https://greensock.com/">Green Sock</a></td>
-			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
+			<td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
+			<td align="center"><a href="https://sql.sh">SQL</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/aftereffects.html">After Effects</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
+			<td align="center"><a href="https://unity.com/">Unity</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
+			<td align="center"><a href="https://socket.io">Socket.io</a></td>
 			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
-			<td align="center"><a href="https://keras.io/">Keras</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
-			<td align="center"><a href="https://www.audacityteam.org/">Audacity</a></td>
+			<td align="center"><a href="https://www.solidworks.com/">Solidworks</a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
+			<td align="center"><a href="https://ocaml.org/">OCaml</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CMake">CMake</a></td>
@@ -114,6 +114,16 @@ A simulation predicting the behavior of neutrons in the core of a nuclear reacto
 <br>
 
 # <p align="center"><a href="https://www.angeluriot.com/#school"><span>🎓 School</span></a></p>
+
+## [🛡 Hexawar.io *(in progress)*](https://github.com/angeluriot/Hexawar.io)
+
+This project is a massively multiplayer game that runs directly on the browser, it takes up the concept of .io games: everyone plays on a large map and the goal is to be the first of the global ranking. It is a simple land capture game where you can attack other territories with your troops. The game is available on [hexawar.io](https://hexawar.io)...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Hexawar.io"><img src="https://i.imgur.com/xMWMNZv.png" width="500"></a>
+</p>
+
+<br>
 
 ## [⛏️ Minecraft clone *(2021)*](https://github.com/angeluriot/Minecraft_clone)
 

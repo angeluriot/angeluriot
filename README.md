@@ -155,6 +155,16 @@ This program is a simplified Shell running basic Unix commands. It can launch de
 
 <br>
 
+## [🃏 Magic Royale *(2022)*](https://github.com/angeluriot/Magic_royale)
+
+This project is a simplified clone of the card game **[Magic the Gathering Arena](https://magic.wizards.com/en/mtgarena)**, it implements the basic mechanics of the game with a display in the console *(no external libraries were allowed)*. The major difference with the original game is that we took the cards from another game: **[Clash Royale](https://clashroyale.com)**...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Magic_royale"><img src="https://i.imgur.com/J6jsG0h.png" width="500"></a>
+</p>
+
+<br>
+
 # <p align="center"><a href="https://www.angeluriot.com/#personal"><span>🏠 Personal</span></a></p>
 
 ## [🌌 Galaxy simulation *(2019)*](https://github.com/angeluriot/Galaxy_simulation)

@@ -50,16 +50,16 @@
 		<tr>
 			<td align="center"><a href="https://unity.com/">Unity</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a></td>
 			<td align="center"><a href="https://socket.io">Socket.io</a></td>
-			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
 			<td align="center"><a href="https://www.solidworks.com/">Solidworks</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
 			<td align="center"><a href="https://ocaml.org/">OCaml</a></td>
+			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
-			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
 		</tr>

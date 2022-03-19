@@ -172,7 +172,7 @@ This project is a simplified clone of the card game **[Magic the Gathering Arena
 This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. It has a menu to change the settings and an interactive 3D camera. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, the precision of the calculation...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://www.angeluriot.com/storage/images/galaxy_1.png" width="500"></a>
+	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://raw.githubusercontent.com/angeluriot/Galaxy_simulation/master/resources/misc/galaxy_1.png" width="500"></a>
 </p>
 
 <br>
@@ -222,7 +222,7 @@ This program can generate images of fractals like the Mandelbrot or the Julia se
 This program approximates the solutions of the Navier-Stokes equations to simulate the behavior of a fluid in 2D, and it can be shaken with the mouse in real time. It does not use at all the particles visible on the screen for the calculation, they behave like buoys floating on the surface so that we can see what is happening...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/2D_fluid_simulation"><img src="https://www.angeluriot.com/storage/gifs/2D_fluid.gif" width="500"></a>
+	<a href="https://github.com/angeluriot/2D_fluid_simulation"><img src="https://raw.githubusercontent.com/angeluriot/2D_fluid_simulation/master/dependencies/resources/2D_fluid.gif" width="500"></a>
 </p>
 
 <br>

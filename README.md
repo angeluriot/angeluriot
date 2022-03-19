@@ -212,7 +212,7 @@ This program is a neural network using an evolutionary algorithm to learn how to
 This program can generate images of fractals like the Mandelbrot or the Julia set. Fractals are shapes with details (often self-similar) whatever the scale. The program allows us to zoom and navigate in several of these very interesting mathematical structures generated from such simple equations...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/2D_fractals_generator"><img src="https://www.angeluriot.com/storage/gifs/Fractal.gif" width="500"></a>
+	<a href="https://github.com/angeluriot/2D_fractals_generator"><img src="https://raw.githubusercontent.com/angeluriot/2D_fractals_generator/master/resources/misc/Newton_2.png" width="500"></a>
 </p>
 
 <br>

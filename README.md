@@ -229,10 +229,10 @@ This program approximates the solutions of the Navier-Stokes equations to simula
 
 ## [🌐 Portoflio *(2021)*](https://github.com/angeluriot/Portfolio)
 
-This project is a website portfolio made to presenting my computer science projects. It is a one-page responsive website (PC, tablet, phone...) programmed with HTML, CSS, and JavaScript, with a lot of animations on mouse hover (with Green Sock and AnimateJS) and a little of 3D with ThreeJS...
+This project is a website portfolio made to present my computer science projects. It is a one-page responsive website programmed with HTML, CSS, and JavaScript...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Portfolio"><img src="https://i.imgur.com/hLTdpWA.png" width="550"></a>
+	<a href="https://github.com/angeluriot/Portfolio"><img src="https://github.com/angeluriot/Portfolio/blob/master/resources/images/Social.png" width="500"></a>
 </p>
 
 <br>

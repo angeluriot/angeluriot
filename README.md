@@ -17,12 +17,12 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="2"><b>Software development</b></th>
-			<th colspan="1"><b>Computer graphics</b></th>
-			<th colspan="1"><b>Front-end web</b></th>
-			<th colspan="2"><b>Back-end web</b></th>
+			<th colspan="2"><b>Software Development</b></th>
+			<th colspan="1"><b>Computer Graphics</b></th>
+			<th colspan="1"><b>Front-end Web</b></th>
+			<th colspan="2"><b>Back-end Web</b></th>
 			<th colspan="1"><b>Design</b></th>
-			<th colspan="1"><b>Machine learning</b></th>
+			<th colspan="1"><b>Machine Learning</b></th>
 		</tr>
 	</thead>
 	<tbody>

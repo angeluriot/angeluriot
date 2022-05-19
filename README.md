@@ -34,7 +34,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/aftereffects.html">After Effects</a></td>
-			<td align="center">Theoretical knowledge</td>
+			<td align="center">Theory</td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>

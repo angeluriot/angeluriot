@@ -18,54 +18,79 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 	<thead>
 		<tr>
 			<th colspan="2"><b>Software development</b></th>
-			<th colspan="2"><b>Web development</b></th>
-			<th colspan="2"><b>Computer graphics</b></th>
+			<th colspan="1"><b>Computer graphics</b></th>
+			<th colspan="1"><b>Front-end web</b></th>
+			<th colspan="2"><b>Back-end web</b></th>
+			<th colspan="1"><b>Design</b></th>
+			<th colspan="1"><b>Machine learning</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
+			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
-			<td align="center"><a href="https://www.w3.org/html/">CSS</a></td>
-			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
-			<td align="center"><a href="https://www.typescriptlang.org">TypeScript</a></td>
-			<td align="center"><a href="https://unity.com/">Unity</a></td>
-			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
+			<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
+			<td align="center"><a href="https://www.adobe.com/products/aftereffects.html">After Effects</a></td>
+			<td align="center">Theoretical knowledge</td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
-			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
-			<td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
-			<td align="center"><a href="https://sql.sh">SQL</a></td>
-			<td align="center"><a href="https://www.adobe.com/products/aftereffects.html">After Effects</a></td>
-			<td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://unity.com/">Unity</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a></td>
-			<td align="center"><a href="https://socket.io">Socket.io</a></td>
-			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
-			<td align="center"><a href="https://www.solidworks.com/">Solidworks</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
+			<td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
+			<td align="center"><a href="http://expressjs.com/">ExpressJS</a></td>
+			<td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
+			<td align="center"><a href="https://www.tensorflow.org/">Tensorflow</a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
+			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://ocaml.org/">OCaml</a></td>
+			<td align="center"><a href="https://unity.com/">Unity</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://socket.io/">Socket.io</a></td>
+			<td align="center"><a href="https://sql.sh/">SQL</a></td>
+			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
+			<td align="center"><a href="https://keras.io/">Keras</a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://www.khronos.org/opencl/">OpenCL</a></td>
+			<td align="center"><a href="https://cmake.org/">CMake</a></td>
+			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
 			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
+			<td align="center"><a href="https://www.mongodb.com/">MongoDB</a></td>
+			<td align="center"><a href="https://stripe.com/fr-sg">Stripe</a></td>
+			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
+			<td align="center"></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
+			<td align="center"><a href="https://www.sfml-dev.org/index.php">SFML</a></td>
+			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/CMake">CMake</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"><a href="https://github.com/ocornut/imgui">ImGui</a></td>
+			<td align="center"><a href="https://greensock.com/">GreenSock</a></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+		</tr>
+		<tr>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"><a href="https://glm.g-truc.net/0.9.9/">GLM</a></td>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>

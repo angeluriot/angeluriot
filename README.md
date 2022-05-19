@@ -4,15 +4,15 @@
 
 <br>
 
-# <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦 About me</span></a></p>
+# 👦 About me
 
-<p align="center">
-	<span>Hi! I am a 22 years old french student in the engineering school <a href="https://www.polytech.universite-paris-saclay.fr/">Polytech Paris-Saclay</a> <i>(4th year / 5)</i> and I study computer science. I am looking for a 3 month internship for summer 2022. Are you interested? Contact me!<br><br>More informations on my website: <a href="https://www.angeluriot.com/"><b>angeluriot.com</b></a></span>
-</p>
+Hi! I'm a software engineering student at **[Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/)** in France. My favorite fields are software development, computer graphics, web development and machine learning. I'm looking for a 6 month internship for 2023 to complete my engineering course.
+
+More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)**
 
 <br>
 
-# <p align="center"><span>📚 Skills</span></p>
+# 📚 Skills
 
 <table align="center">
 	<thead>

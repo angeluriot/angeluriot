@@ -187,7 +187,7 @@ An application showing data from the Ocean Biodiversity Information System (OBIS
 
 ## [🌊 2D fluid simulation *(2020)*](https://github.com/angeluriot/2D_fluid_simulation)
 
-This program approximates the solutions of the Navier- Stokes equations to simulate the behavior of a fluid in 2D. It can be shaken with the mouse in real time...
+This program approximates the solutions of the Navier-Stokes equations to simulate the behavior of a fluid in 2D. It can be shaken with the mouse in real time...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/2D_fluid_simulation"><img src="https://raw.githubusercontent.com/angeluriot/2D_fluid_simulation/master/resources/misc/2D_fluid.gif" width="500"></a>

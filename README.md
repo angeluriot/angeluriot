@@ -155,16 +155,6 @@ This program is an n-body type simulation using GPU acceleration. It is able to 
 
 <br>
 
-## [🗺️ Maze solver *(2019)*](https://github.com/angeluriot/Maze_solver)
-
-It is an interactive web application that can create and solve mazes. You can choose among several different algorithms, move the start and the finish or draw your own walls...
-
-<p align="center">
-	<a href="https://github.com/angeluriot/Maze_solver"><img src="https://i.imgur.com/iSW6t5e.png" width="500"></a>
-</p>
-
-<br>
-
 ## [🧮 2D fractals generator *(2019)*](https://github.com/angeluriot/2D_fractals_generator)
 
 This program can generate images of fractals like the Mandelbrot or the Julia set. The program allows us to zoom and navigate in these interesting mathematical structures...
@@ -175,22 +165,32 @@ This program can generate images of fractals like the Mandelbrot or the Julia se
 
 <br>
 
-## [🌍 OBIS 3D *(2021)*](https://github.com/angeluriot/OBIS_3D)
-
-An application showing data from the Ocean Biodiversity Information System (OBIS) on a 3D globe. You can choose the species, specify a date range, and also show an animation of the evolution over time...
-
-<p align="center">
-	<a href="https://github.com/angeluriot/OBIS_3D"><img src="https://i.imgur.com/Any94qm.png" width="500"></a>
-</p>
-
-<br>
-
 ## [🌊 2D fluid simulation *(2020)*](https://github.com/angeluriot/2D_fluid_simulation)
 
 This program approximates the solutions of the Navier-Stokes equations to simulate the behavior of a fluid in 2D. It can be shaken with the mouse in real time...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/2D_fluid_simulation"><img src="https://raw.githubusercontent.com/angeluriot/2D_fluid_simulation/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
+## [🗺️ Maze solver *(2019)*](https://github.com/angeluriot/Maze_solver)
+
+It is an interactive web application that can create and solve mazes. You can choose among several different algorithms, move the start and the finish or draw your own walls...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Maze_solver"><img src="https://i.imgur.com/iSW6t5e.png" width="500"></a>
+</p>
+
+<br>
+
+## [🌍 OBIS 3D *(2021)*](https://github.com/angeluriot/OBIS_3D)
+
+An application showing data from the Ocean Biodiversity Information System (OBIS) on a 3D globe. You can choose the species, specify a date range, and also show an animation of the evolution over time...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/OBIS_3D"><img src="https://i.imgur.com/Any94qm.png" width="500"></a>
 </p>
 
 <br>

@@ -155,7 +155,7 @@ This program is an n-body type simulation using GPU acceleration. It is able to 
 
 <br>
 
-## [🧮 2D fractals generator *(2019)*](https://github.com/angeluriot/2D_fractals_generator)
+## [❄️ 2D fractals generator *(2019)*](https://github.com/angeluriot/2D_fractals_generator)
 
 This program can generate images of fractals like the Mandelbrot or the Julia set. The program allows us to zoom and navigate in these interesting mathematical structures...
 

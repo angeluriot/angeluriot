@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.angeluriot.com/" target="_blank"><img src="https://i.imgur.com/IXqlBea.png" width="100%"></a>
+	<a href="https://www.angeluriot.com/"><img src="https://i.imgur.com/IXqlBea.png" width="100%"></a>
 </p>
 
 <br>

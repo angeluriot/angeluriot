@@ -187,7 +187,7 @@ It is an interactive web application that can create and solve mazes. You can ch
 
 ## [💭 Proverbot *(2022)*](https://github.com/angeluriot/Proverbot)
 
-This project is a bot that generate random French proverb images and post them every day on its own Twitter account...
+This project is a bot that generate random French proverb images and post them every day on its own Twitter account *(with more than 10 thousand followers)*...
 
 <p align="center">
 	<a href="https://twitter.com/TheProverbot"><img src="https://raw.githubusercontent.com/angeluriot/Proverbot/master/misc/thumbnail.png" width="500"></a>

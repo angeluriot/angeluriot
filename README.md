@@ -185,6 +185,16 @@ It is an interactive web application that can create and solve mazes. You can ch
 
 <br>
 
+## [💭 Proverbot *(2022)*](https://github.com/angeluriot/Proverbot)
+
+This project is a bot that generate random French proverb images and post them every day on its own Twitter account...
+
+<p align="center">
+	<a href="https://twitter.com/TheProverbot"><img src="https://raw.githubusercontent.com/angeluriot/Proverbot/master/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [🌍 OBIS 3D *(2021)*](https://github.com/angeluriot/OBIS_3D)
 
 An application showing data from the Ocean Biodiversity Information System (OBIS) on a 3D globe. You can choose the species, specify a date range, and also show an animation of the evolution over time...

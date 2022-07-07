@@ -113,7 +113,11 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 	</a>
 	<span>&nbsp;</span>
 	<a href="https://twitter.com/DIMENSION_YT">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+		<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://discord.gg/WSvpcA3jJu">
+		<img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
 	<a href="https://www.angeluriot.com/">

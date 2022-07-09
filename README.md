@@ -115,16 +115,16 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="mailto:angel.uriot@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
 	<a href="https://twitter.com/DIMENSION_YT">
 		<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
 	<a href="https://discord.gg/WSvpcA3jJu">
 		<img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:angel.uriot@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
 	<a href="https://www.angeluriot.com/">

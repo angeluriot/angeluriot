@@ -19,7 +19,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 		<tr>
 			<th colspan="2"><b>Software Development</b></th>
 			<th colspan="1"><b>Computer Graphics</b></th>
-			<th colspan="1"><b>Front-end Web</b></th>
+			<th colspan="2"><b>Front-end Web</b></th>
 			<th colspan="2"><b>Back-end Web</b></th>
 			<th colspan="1"><b>Design</b></th>
 			<th colspan="1"><b>Machine Learning</b></th>
@@ -31,6 +31,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
 			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/aftereffects.html">After Effects</a></td>
@@ -40,7 +41,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
 			<td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
 			<td align="center"><a href="http://expressjs.com/">ExpressJS</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
@@ -50,9 +52,10 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://ocaml.org/">OCaml</a></td>
 			<td align="center"><a href="https://unity.com/">Unity</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
+			<td align="center"><a href="https://getbootstrap.com/">Bootstrap</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
 			<td align="center"><a href="https://socket.io/">Socket.io</a></td>
-			<td align="center"><a href="https://sql.sh/">SQL</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
 			<td align="center"><a href="https://keras.io/">Keras</a></td>
 		</tr>
@@ -61,8 +64,9 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://cmake.org/">CMake</a></td>
 			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
 			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
+			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
+			<td align="center"><a href="https://sql.sh/">SQL</a></td>
 			<td align="center"><a href="https://www.mongodb.com/">MongoDB</a></td>
-			<td align="center"><a href="https://stripe.com/fr-sg">Stripe</a></td>
 			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
 			<td align="center"></td>
 		</tr>
@@ -70,9 +74,10 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
 			<td align="center"><a href="https://www.sfml-dev.org/index.php">SFML</a></td>
-			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
+			<td align="center"><a href="https://greensock.com/">GreenSock</a></td>
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://stripe.com/fr-sg">Stripe</a></td>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 		</tr>
@@ -80,7 +85,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"><a href="https://github.com/ocornut/imgui">ImGui</a></td>
-			<td align="center"><a href="https://greensock.com/">GreenSock</a></td>
+			<td align="center"></td>
+			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
@@ -90,7 +96,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"><a href="https://glm.g-truc.net/0.9.9/">GLM</a></td>
-			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+			<td align="center"></td>
+			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>

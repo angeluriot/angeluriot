@@ -224,7 +224,7 @@ This is a handmade neural network library for Python. It supports multiple layer
 This program is a sandbox 2D application simulating the interactions between a large number of materials. It uses a grid where each square represents an element of a material. There is wood, water, lava, ice, acid, and many other...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Sandbox"><img src="https://i.imgur.com/THYA1TQ.png" width="500"></a>
+	<a href="https://github.com/angeluriot/Sandbox"><img src="https://raw.githubusercontent.com/angeluriot/Sandbox/master/resources/misc/thumbnail.png" width="500"></a>
 </p>
 
 <br>

@@ -216,7 +216,7 @@ An application showing data from the Ocean Biodiversity Information System (OBIS
 
 <br>
 
-## [🤖 Neural Network *(2022)*](https://github.com/angeluriot/Neural_network)
+## [🤖 Neural network *(2022)*](https://github.com/angeluriot/Neural_network)
 
 This is a handmade neural network library for Python. It supports multiple layers, activation functions, optimizers... You can easily create a model and train it with backpropagation...
 

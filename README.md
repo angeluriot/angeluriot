@@ -6,7 +6,7 @@
 
 # 👦 About me
 
-Hi! I'm a software engineering student at **[Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/)** in France. My favorite fields are software development, computer graphics, web development and machine learning. I'm looking for a 6 month internship for 2023 to complete my engineering course.
+Hi! I'm a software engineering student at **[Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/)** in France. My favorite fields are software development, computer graphics, web development and machine learning. I'm open to any opportunities.
 
 More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)**
 
@@ -52,8 +52,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://ocaml.org/">OCaml</a></td>
 			<td align="center"><a href="https://unity.com/">Unity</a></td>
+			<td align="center"><a href="https://svelte.dev/">Svelte</a></td>
 			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
-			<td align="center"><a href="https://getbootstrap.com/">Bootstrap</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
 			<td align="center"><a href="https://socket.io/">Socket.io</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
@@ -63,8 +63,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://www.khronos.org/opencl/">OpenCL</a></td>
 			<td align="center"><a href="https://cmake.org/">CMake</a></td>
 			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
-			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
-			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
+			<td align="center"><a href="https://getbootstrap.com/">Bootstrap</a></td>
+			<td align="center"><a href="https://tailwindcss.com/">Tailwind</a></td>
 			<td align="center"><a href="https://sql.sh/">SQL</a></td>
 			<td align="center"><a href="https://www.mongodb.com/">MongoDB</a></td>
 			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
@@ -74,8 +74,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
 			<td align="center"><a href="https://www.sfml-dev.org/index.php">SFML</a></td>
-			<td align="center"><a href="https://greensock.com/">GreenSock</a></td>
-			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+			<td align="center"><a href="https://vitejs.dev/">Vite</a></td>
+			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
 			<td align="center"><a href="https://stripe.com/fr-sg">Stripe</a></td>
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"></td>
@@ -85,8 +85,8 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"><a href="https://github.com/ocornut/imgui">ImGui</a></td>
-			<td align="center"></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
+			<td align="center"><a href="https://greensock.com/">GreenSock</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
@@ -96,7 +96,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"><a href="https://glm.g-truc.net/0.9.9/">GLM</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>

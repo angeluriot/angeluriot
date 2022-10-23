@@ -67,7 +67,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://tailwindcss.com/">Tailwind</a></td>
 			<td align="center"><a href="https://sql.sh/">SQL</a></td>
 			<td align="center"><a href="https://www.mongodb.com/">MongoDB</a></td>
-			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
+			<td align="center"><a href="https://www.figma.com/">Figma</a></td>
 			<td align="center"></td>
 		</tr>
 		<tr>
@@ -78,7 +78,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
 			<td align="center"><a href="https://stripe.com/fr-sg">Stripe</a></td>
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
-			<td align="center"><a href="https://www.figma.com/">Figma</a></td>
+			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
 			<td align="center"></td>
 		</tr>
 		<tr>

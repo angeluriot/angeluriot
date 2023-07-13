@@ -6,7 +6,7 @@
 
 # 👦 About me
 
-Hi! I'm a software engineering student at **[Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/)** in France. My favorite fields are software development, computer graphics, web development and machine learning. I'm open to any opportunity.
+Hi! I'm a software engineering student at **[Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/)** in France. My favorite fields are software development, computer graphics, web development and machine learning. I'm currently doing my final internship at Klaxit / BlaBlaCar Daily 🚙.
 
 More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)**
 

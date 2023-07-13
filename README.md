@@ -138,7 +138,7 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 
 ## [🎨 Generative Adversarial Network *(2023)*](https://github.com/angeluriot/Generative_adversarial_network)
 
-This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more....
+This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Generative_adversarial_network"><img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>

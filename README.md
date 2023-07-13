@@ -201,7 +201,17 @@ It is an interactive web application that can create and solve mazes. You can ch
 This project is a bot that generate random French proverb images and post them every day on its own Twitter account *(with more than 10 thousand followers)*...
 
 <p align="center">
-	<a href="https://twitter.com/TheProverbot"><img src="https://raw.githubusercontent.com/angeluriot/Proverbot/master/misc/thumbnail.png" width="500"></a>
+	<a href="https://twitter.com/TheProverbot"><img src="https://raw.githubusercontent.com/angeluriot/Proverbot/master/misc/thumbnail.png" width="350"></a>
+</p>
+
+<br>
+
+## [💡 Ray tracer *(2023)*](https://github.com/angeluriot/Ray_tracer)
+
+This project is a ray tracer made in C++ on the CPU that can render complex 3D scenes with custom models and textures, reflexions and refractions, shadows, and more...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Ray_tracer"><img src="https://raw.githubusercontent.com/angeluriot/Ray_tracer/master/resources/misc/thumbnail.png" width="500"></a>
 </p>
 
 <br>

@@ -136,6 +136,16 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 
 # 📂 Projects
 
+## [🎨 Generative Adversarial Network *(2023)*](https://github.com/angeluriot/Generative_adversarial_network)
+
+This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more....
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Generative_adversarial_network"><img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [🛡 Hexawar.io *(2021)*](https://github.com/angeluriot/Hexawar.io)
 
 It's a massively multiplayer browse game, it takes up the concept of .io games: everyone plays on a large map and the goal is to to be the first of the global ranking...

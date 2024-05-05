@@ -40,6 +40,16 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 
 # 📂 Projects
 
+## [💬 Language model *(2024)*](https://github.com/angeluriot/Language_model)
+
+This project is an autoregressive language model like ChatGPT, after training on 200GB of french text during 570 hours, it is able to answer questions, follow instructions, generate stories, and more...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Language_model"><img src="https://github.com/angeluriot/Language_model/blob/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [🎨 Generative Adversarial Network *(2023)*](https://github.com/angeluriot/Generative_adversarial_network)
 
 This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more...

@@ -235,5 +235,5 @@ This program use the Minimax algorithm to choose the best move in chess with a g
 A simulation predicting the behavior of neutrons in the core of a nuclear reactor using the Monte Carlo method. The goal was to find the amount of radiations reaching the reactor's walls...
 
 <p align="center">
-	<a href="https://www.angeluriot.com/portfolio/resources/documents/CEA_2019.pdf"><img src="https://i.imgur.com/qykTnSz.png" width="500"></a>
+	<a href="https://www.cea.fr/energies/iresne/Pages/Nos%20prestations/Mod%C3%A9lisation%20et%20Simulation.aspx"><img src="https://i.imgur.com/qykTnSz.png" width="500"></a>
 </p>

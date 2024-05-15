@@ -60,7 +60,7 @@ This project is a deep convolutional generative adversarial network that can cre
 
 <br>
 
-## [🛡 Hexawar.io *(2021)*](https://github.com/angeluriot/Hexawar.io)
+## [🛡 Hexawar.io *(2022)*](https://github.com/angeluriot/Hexawar.io)
 
 It's a massively multiplayer browse game, it takes up the concept of .io games: everyone plays on a large map and the goal is to to be the first of the global ranking...
 

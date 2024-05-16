@@ -230,7 +230,7 @@ This program use the Minimax algorithm to choose the best move in chess with a g
 
 <br>
 
-## [☢️ Nuclear reactor simulation *(2019)*](https://www.angeluriot.com/portfolio/resources/documents/CEA_2019.pdf)
+## [☢️ Nuclear reactor simulation *(2019)*](https://www.cea.fr/energies/iresne/Pages/Nos%20prestations/Mod%C3%A9lisation%20et%20Simulation.aspx)
 
 A simulation predicting the behavior of neutrons in the core of a nuclear reactor using the Monte Carlo method. The goal was to find the amount of radiations reaching the reactor's walls...
 

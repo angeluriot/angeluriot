@@ -100,6 +100,16 @@ This program can generate images of fractals like the Mandelbrot or the Julia se
 
 <br>
 
+## [♟️ Chess AI *(2021)*](https://github.com/angeluriot/Chess_AI)
+
+This project is a machine learning model that has learned to play chess after training on millions of chess games, achieving an elo rating of 1,741...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Chess_AI"><img src="https://raw.githubusercontent.com/angeluriot/Chess_AI/refs/heads/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [🌊 2D fluid simulation *(2020)*](https://github.com/angeluriot/2D_fluid_simulation)
 
 This program approximates the solutions of the Navier-Stokes equations to simulate the behavior of a fluid in 2D. It can be shaken with the mouse in real time...
@@ -116,16 +126,6 @@ It is an interactive web application that can create and solve mazes. You can ch
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Maze_solver"><img src="https://i.imgur.com/iSW6t5e.png" width="500"></a>
-</p>
-
-<br>
-
-## [♟️ Chess AI *(2021)*](https://github.com/angeluriot/Chess_AI)
-
-This project is a machine learning model that has learned to play chess after training on millions of chess games, achieving an elo rating of 1,741...
-
-<p align="center">
-	<a href="https://github.com/angeluriot/Chess_AI"><img src="https://raw.githubusercontent.com/angeluriot/Chess_AI/refs/heads/master/resources/misc/thumbnail.png" width="500"></a>
 </p>
 
 <br>

@@ -122,7 +122,7 @@ It is an interactive web application that can create and solve mazes. You can ch
 
 ## [♟️ Chess AI *(2021)*](https://github.com/angeluriot/Chess_AI)
 
-This project is a machine learning model that has learned to play chess after training on millions of chess games, achieving an elo rating of 1741...
+This project is a machine learning model that has learned to play chess after training on millions of chess games, achieving an elo rating of 1,741...
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Chess_AI"><img src="https://raw.githubusercontent.com/angeluriot/Chess_AI/refs/heads/master/resources/misc/thumbnail.png" width="500"></a>

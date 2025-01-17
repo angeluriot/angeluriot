@@ -120,6 +120,16 @@ It is an interactive web application that can create and solve mazes. You can ch
 
 <br>
 
+## [♟️ Chess AI *(2021)*](https://github.com/angeluriot/Chess_AI)
+
+This project is a machine learning model that has learned to play chess after training on millions of chess games, achieving an elo rating of 1741...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Chess_AI"><img src="https://raw.githubusercontent.com/angeluriot/Chess_AI/refs/heads/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [💭 Proverbot *(2022)*](https://github.com/angeluriot/Proverbot)
 
 This project is a bot that generate random French proverb images and post them every day on its own Twitter account *(with more than 10 thousand followers)*...
@@ -216,16 +226,6 @@ It's a simplified clone of Magic the Gathering Arena but with the cards of Clash
 
 <p align="center">
 	<a href="https://github.com/angeluriot/Magic_royale"><img src="https://i.imgur.com/J6jsG0h.png" width="500"></a>
-</p>
-
-<br>
-
-## [♟️ Chess AI *(2021)*](https://github.com/angeluriot/Chess_AI)
-
-This program use the Minimax algorithm to choose the best move in chess with a given number of moves in advance. The higher this number, the better its moves will be but the slower it will play...
-
-<p align="center">
-	<a href="https://github.com/angeluriot/Chess_AI"><img src="https://i.imgur.com/Qe2x9gV.png" width="350"></a>
 </p>
 
 <br>

@@ -6,7 +6,7 @@
 
 # 👦 About me
 
-Hi! I’m a french software engineer at **[BlaBlaCar](https://www.blablacar.co.uk/)**, the most widely used car-sharing application in the world. But I also develop things on my free time, my favorite fields are software development, computer graphics, web development and machine learning.
+Hi! I’m a french software engineer at **[BlaBlaCar](https://www.blablacar.co.uk/)**, the most widely used car-sharing application in the world. But I also develop things in my free time, my favorite fields are software development, computer graphics, web development and machine learning.
 
 More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)**
 

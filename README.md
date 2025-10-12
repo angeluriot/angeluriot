@@ -40,6 +40,16 @@ More informations on my website: **[angeluriot.com](https://www.angeluriot.com/)
 
 # 📂 Projects
 
+## [🗺️ Papermap *(2025)*](https://github.com/angeluriot/Papermap)
+
+This project is a collaborative website that provides an overview of scientific literature findings on a wide range of questions by collecting and sorting scientific papers using simple heuristics...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Papermap"><img src="https://github.com/angeluriot/Papermap/blob/main/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [💬 Language model *(2024)*](https://github.com/angeluriot/Language_model)
 
 This project is an autoregressive language model like ChatGPT, after training on 200GB of french text during 570 hours, it is able to answer questions, follow instructions, generate stories, and more...
